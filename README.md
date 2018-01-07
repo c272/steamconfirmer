@@ -18,4 +18,5 @@ After you've done this, go into `config.json`, located in the root directory of 
 If you've successfully input your shared secret and installed nodejs, then simply run `run.bat` inside the root folder of the script.
 
 It will connect to Steam, and automatically confirm any outgoing trades.
+
 **This will not confirm inbound trades for obvious reasons, that will have to be done manually.**
