@@ -1,6 +1,8 @@
 # SteamConfirmer
 *A Steam trade confirmer, packaged with all necessary dependencies. Requires Node 8.6.*
 
+**THIS PROGRAM IS DEPRECATED, AND MANY OF ITS PACKAGES ARE NOW OUT OF DATE, AND CONTAIN KNOWN SECURITY ISSUES.**
+
 SteamConfirmer is a program which allows you to automatically confirm all outgoing trades, polling every 10 seconds. To configure the program, follow the steps below.
 
 ## Setup
